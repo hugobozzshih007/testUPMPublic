@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.coffee.upm-git-extension": "https://github.com/mob-sakai/UpmGitExtension.git#upm",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.1.4",
@@ -38,5 +39,11 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "com.coffee.upm-git-extension": {
+      "revision": "upm",
+      "hash": "aa9f6ea79913e7e2749edea528c42f2f700ac401"
+    }
   }
 }
