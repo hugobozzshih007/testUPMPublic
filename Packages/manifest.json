@@ -3,7 +3,6 @@
         "com.unity.ugui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0",
         "com.unity.modules.ui": "1.0.0",
-        "com.unity.modules.uielements": "1.0.0",
-        "com.hugobozz.unitypackage": "file:../unity-ui-exts"
+        "com.unity.modules.uielements": "1.0.0"
     }
 }
