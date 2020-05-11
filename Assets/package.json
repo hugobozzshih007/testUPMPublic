@@ -2,6 +2,6 @@
     "name": "com.hugobozz.unitypackage",
     "displayName": "Unity Package",
     "version": "1.0.0",
-    "unity": "2019.3",
-    "description": "Example package for use with the Unity 2019.3 package manager."
+    "unity": "2018.3",
+    "description": "Example package for use with the Unity 2018.3 package manager."
 }
